@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.shopex:shopex-log-spring-boot-starter:1.3.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/shopex/shopex-log-spring-boot-starter/1.3.4-SNAPSHOT/shopex-log-spring-boot-starter-1.3.4-20201110.065048-10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/shopex/shopex-log-spring-boot-starter/1.3.4-SNAPSHOT/shopex-log-spring-boot-starter-1.3.4-20201110.065048-10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/shopex/shopex-log-spring-boot-starter/1.3.4-SNAPSHOT/shopex-log-spring-boot-starter-1.3.4-20201110.065048-10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
