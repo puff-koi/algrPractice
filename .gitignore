@@ -1,10 +1,15 @@
-HELP.md
+######################################################################
+# Build Tools
 
-.idea/
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+
+######################################################################
+# IDE
 
 ### STS ###
 .apt_generated
@@ -13,7 +18,6 @@ target/
 .project
 .settings
 .springBeans
-.sts4-cache
 
 ### IntelliJ IDEA ###
 .idea
@@ -21,19 +25,22 @@ target/
 *.iml
 *.ipr
 
-*.yml
-
 ### NetBeans ###
-/ecboot-web/logs/
-/nbproject/private/
-/logs
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
+nbproject/private/
+build/*
+nbbuild/
+nbdist/
+.nb-gradle/
 
-### VS Code ###
-.vscode/
+######################################################################
+# Others
+*.log
+*.xml.versionsBackup
+*.swp
+
+!*/build/*.java
+!*/build/*.html
+!*/build/*.xml
+.idea
+storage
+shopex-ui/dist/.user.ini
